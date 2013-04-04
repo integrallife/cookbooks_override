@@ -1,10 +1,10 @@
-= RightScale Cookbooks Override
+# RightScale Cookbooks Override
 
-= DESCRIPTION
+# DESCRIPTION
 
 A simple cookbook repository used to override the configuration files setup in our main cookbooks.
 
-== Synopsis
+## Synopsis
 
   * Fork this repo.
   * Delete from the repo any application configuration files that are not needed.
@@ -13,5 +13,6 @@ A simple cookbook repository used to override the configuration files setup in o
   * Add this cookbook to the top of the new repo path.
   * Change the repo path on the cloned templated.
   * Edit the application(s) configuration file(s).
-  * This is the configuration that will be installed.  
+  * This is the configuration that will be installed.
 
+Maintained by the RightScale White Team
